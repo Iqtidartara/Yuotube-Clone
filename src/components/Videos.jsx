@@ -6,4 +6,4 @@ const Videos = () => {
   )
 }
 
-export default Videos
+export default Videos;
